@@ -32,3 +32,19 @@ The following are badges that used to be obtainable, but now cannot be obtained:
 | --- | --- | --- | --- | --- |
 Arctic Code Vault Contributor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="175px"> | `❌ No` | Previously obtainable by contributing code to repositories in the [2020 Archive Program](https://archiveprogram.github.com/) | Very Easy
 Mars 2020 Contributor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/mars-2020-contributor-default.png" width="175px"> | `❌ No` | Given if a user contributed code to repositories in the [Mars 2020 Mission](https://github.com/readme/nasa-ingenuity-helicopter) | Easy
+
+# 🕒 Previous Names
+
+Only 2 achievements have had their name altered in all of GitHub's History. These 2 achievements are the Public Sponsor and Mars 2020 Contributor as follows:
+
+```diff
+- GitHub Sponsor
++ Public Sponsor
+
+- Mars 2020 Helicopter Contributor
++ Mars 2020 Contributor
+```
+
+# 📋 Credits
+- Massive credit goes to @Schweinepriester for the high quality images for each badge, labels, information for each badge, and the inspiration to make this repository
+- Credit to @drknzz for the skin tone images, information about it too & Credit to @Thinkright20 for inspiration
